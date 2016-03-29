@@ -46,7 +46,7 @@ Grupa: 1221F
 |11)Ignat Mihai| http://github.com/IgnatMihai||
 |12) Jugarean Carmen| http://github.com/CarmenJugarean95||
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
-|14)Mitrica Gina Maria| http://github.com/MitricaGina||
+|14)Mitrica Gina Maria |https://github.com/MitricaGina/ALF|https://github.com/MitricaGina/SE|
 |15)Nanu Maria| http://github.com/mariairina||
 |16)Popovici Fabian| http://github.com/fabianpopovici||
 |17) Tebibi Fatma	| http://github.com/fatmatebibi||
